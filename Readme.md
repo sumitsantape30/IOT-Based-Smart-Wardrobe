@@ -2,6 +2,8 @@
 
 ℹ️ This code reads data from a DHT sensor and an analog load cell sensor. It provides temperature, humidity, and odor level measurements. It also includes some conditional checks based on the sensor readings.
 
+## Research Paper (Published) : - [IoT Smart Wardrobe System](https://ijirt.org/Article?manuscript=160255) 
+
 ## Prerequisites
 
 To run this code, you need the following:
